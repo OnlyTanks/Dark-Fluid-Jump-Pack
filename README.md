@@ -1,7 +1,7 @@
-# REQUESTED MOD [DONE]
-## Custom Jump Pack — Dark Fluid Vessel Only
+## REQUESTED MOD [DONE]
+## Custom Jump Pack — Dark Fluid Vessel
 
-A HELLDIVERS 2 mod that replaces the normal **Jump Pack** Hellpod payload with the real **Dark Fluid Vessel**.
+A HELLDIVERS 2 mod that replaces the normal **Jump Pack** with the real **Dark Fluid Vessel**.
 
 The normal Jump Pack stratagem remains the one you select in your loadout, but when the Hellpod lands it spawns the Dark Fluid Vessel instead.
 
